@@ -6,3 +6,6 @@ Created interactive dashboards and visualizations to identify trends, patterns, 
 
 
 ![Dashboard](https://github.com/sachinpateloffl/Dashboard-on-IPL-Data-for-Year-2008-to-2020-using-Tableau-Desktop/assets/98209638/4c7de24c-a7c0-4bf6-8192-255904dd3d8b)
+
+
+[Data Set Link](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
