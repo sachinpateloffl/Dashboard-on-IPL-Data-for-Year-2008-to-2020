@@ -9,3 +9,11 @@ Created interactive dashboards and visualizations to identify trends, patterns, 
 
 
 [Data Set Link](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+
+
+# Objective
+1. To analyze the player scored most run in a specific season.
+2. To analyze the player takes most wickets in a particular season.
+3. To analyze the winner of title in a specific season.
+4. To analyze the tournament sixes in a specific season.
+5. To analyze the tournament fours in a specific season.
